@@ -1,0 +1,16 @@
+.searchClass {
+    background-color: rgb(124, 124, 124);
+    color: black;
+    padding: 10px;
+    font-size: 18px;
+}
+
+button {
+    margin-left: 5px;
+    border-radius: 5px;
+    padding: 4px;
+}
+
+input {
+    padding: 3px;
+}

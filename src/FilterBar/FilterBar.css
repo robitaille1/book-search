@@ -1,0 +1,19 @@
+.FilterClass {
+    background-color: lightgrey;
+    color: black;
+    padding: 10px;
+    border-bottom: 1px solid rgb(110, 109, 109);
+}
+
+.PrintTypeClass {
+    display: inline;
+    margin-right: 10px;
+}
+
+.BookTypeClass {
+    display: inline;
+}
+
+.label {
+    font-size: 15px;
+}
